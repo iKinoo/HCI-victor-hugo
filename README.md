@@ -2,14 +2,9 @@
 
 ## Integrantes:
 
-
-- Julio César Alcocer Herrera
-  ![alt text](./assets/Julio.jpg)
-- Tyron Julian Johnson Dorantes
-  ![alt text](./assets/Tyrone.png)
-- Rodrigo Joaquín Pacab Canul
-  ![alt text](./assets/Rodrigo.png)
-- Orlando Isaías Rodríguez Couoh 
-  ![alt text](./assets/Isaias.png)
-
-
+| Integrante                     | Foto                                         | Contacto                                                                                                                                                                                                                                  |
+| ------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Julio César Alcocer Herrera    | <img src="./assets/Julio.jpg" width="200">   | <a href="https://github.com/JulioAlcocer22" > <img src="./assets/github-mark-white.png#gh-dark-mode-only" width="70"> <img src="./assets/github-mark.png#gh-light-mode-only" width="70"></a> <a href="https://www.linkedin.com/in/juliocalcocer011235/"> <img src="./assets/linkedin.png" width="70"></a> |
+| Tyron Julian Johnson Dorantes  | <img src="./assets/Tyrone.jpg" width="200">  | <a href="https://github.com/TyJhnsnD" > <img src="./assets/github-mark-white.png#gh-dark-mode-only" width="70"> <img src="./assets/github-mark.png#gh-light-mode-only" width="70"></a> <a href="https://www.linkedin.com/in/tyrone-julian-johnson-143105274/"> <img src="./assets/linkedin.png" width="70"></a>       |
+| Rodrigo Joaquín Pacab Canul    | <img src="./assets/Rodrigo.png" width="200"> | <a href="https://github.com/ikinoo" > <img src="./assets/github-mark-white.png#gh-dark-mode-only" width="70"> <img src="./assets/github-mark.png#gh-light-mode-only" width="70"></a> <a href="https://www.linkedin.com/in/rodrigo-pacab/"> <img src="./assets/linkedin.png" width="70"></a>         |
+| Orlando Isaías Rodríguez Couoh | <img src="./assets/Isaias.png" width="200">  | <a href="https://github.com/IsaiasRdzc" > <img src="./assets/github-mark-white.png#gh-dark-mode-only" width="70"> <img src="./assets/github-mark.png#gh-light-mode-only" width="70"></a> <a href="https://www.linkedin.com/in/isaiasrdzc/"> <img src="./assets/linkedin.png" width="70"></a>     |
